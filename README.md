@@ -2,7 +2,7 @@
 
 ## Demo
 
-- https://duveypriyansh.github.io/personal-website/#
+- https://duveypriyansh.github.io/me
 
 Linux and macOS:
 
